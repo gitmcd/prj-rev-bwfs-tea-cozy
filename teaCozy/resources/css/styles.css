@@ -36,6 +36,11 @@ header {
   width: 100%;
 }
 
+.logo {
+  display: flex;
+  align-items: center;
+}
+
 .logo img {
   height: 50px;
   margin-left: 10px;
